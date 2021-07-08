@@ -1,6 +1,6 @@
-# stack-design-team
+# Stack and Search Design
 
-This repo tracks requests, documentation, and feedback for projects worked by the Stack Design team.
+This repo tracks requests, documentation, and feedback for projects worked by the Stack and Enterprise Search Design team.
 
 ### Need design support?
 Great, let's talk. First, a bit about the domain of projects our team handles:
