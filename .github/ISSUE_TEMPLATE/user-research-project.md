@@ -1,6 +1,6 @@
 ---
 name: User Research Project
-about: Describe and track Kibana user research requests
+about: Describe and track user research requests
 
 ---
 ## Research plan
