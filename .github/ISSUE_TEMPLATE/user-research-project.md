@@ -1,5 +1,5 @@
 ---
-name: User Research Project
+name: User research project
 about: Describe and track user research requests
 
 ---
